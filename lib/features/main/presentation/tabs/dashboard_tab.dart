@@ -2,10 +2,10 @@ import 'package:carousel_slider_plus/carousel_slider_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:juarain_academy_app/core/helper/layout_helper.dart';
-import 'package:juarain_academy_app/core/res/color.dart';
-import 'package:juarain_academy_app/core/res/image.dart';
-import 'package:juarain_academy_app/core/res/svg.dart';
+import 'package:juarain_academy_app_ui/core/helper/layout_helper.dart';
+import 'package:juarain_academy_app_ui/core/res/color.dart';
+import 'package:juarain_academy_app_ui/core/res/image.dart';
+import 'package:juarain_academy_app_ui/core/res/svg.dart';
 
 class DashboardTab extends StatefulWidget {
   const DashboardTab({super.key});

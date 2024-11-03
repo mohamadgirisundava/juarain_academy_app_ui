@@ -1,10 +1,10 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:juarain_academy_app/core/helper/layout_helper.dart';
-import 'package:juarain_academy_app/core/res/color.dart';
-import 'package:juarain_academy_app/core/res/image.dart';
-import 'package:juarain_academy_app/features/main/presentation/screens/home_screen.dart';
+import 'package:juarain_academy_app_ui/core/helper/layout_helper.dart';
+import 'package:juarain_academy_app_ui/core/res/color.dart';
+import 'package:juarain_academy_app_ui/core/res/image.dart';
+import 'package:juarain_academy_app_ui/features/main/presentation/screens/home_screen.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});

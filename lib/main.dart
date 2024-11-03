@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:juarain_academy_app/features/intro/presentation/screens/splash_screen.dart';
+import 'package:juarain_academy_app_ui/features/intro/presentation/screens/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());

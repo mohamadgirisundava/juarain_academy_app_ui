@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:juarain_academy_app/core/helper/layout_helper.dart';
-import 'package:juarain_academy_app/core/res/color.dart';
-import 'package:juarain_academy_app/core/res/svg.dart';
-import 'package:juarain_academy_app/features/main/presentation/tabs/dashboard_tab.dart';
+import 'package:juarain_academy_app_ui/core/helper/layout_helper.dart';
+import 'package:juarain_academy_app_ui/core/res/color.dart';
+import 'package:juarain_academy_app_ui/core/res/svg.dart';
+import 'package:juarain_academy_app_ui/features/main/presentation/tabs/dashboard_tab.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
